@@ -11,3 +11,11 @@
     font-size: 24px;
     color: #f9faf8;
 }
+
+.top-menu div {
+    flex: 1;
+}
+
+.top-menu #header-logo {
+    flex-grow: 2;
+}
