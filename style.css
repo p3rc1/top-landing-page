@@ -3,6 +3,11 @@
     color: #f9faf8;
 }
 
-.top-right-menu {
+.top-menu {
     display: flex;
+}
+
+#header-logo {
+    font-size: 48px;
+    color: #f9faf8;
 }
