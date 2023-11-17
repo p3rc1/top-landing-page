@@ -21,3 +21,9 @@
 .top-menu #header-logo {
     flex-grow: 2;
 }
+
+button {
+    font-size: 18px;
+    color: #e5e7eb;
+    background: #3882f6;
+}
