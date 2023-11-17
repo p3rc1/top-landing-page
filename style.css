@@ -1,6 +1,7 @@
 .dark-header {
     background: #1f2937;
     color: #f9faf8;
+    padding: 50px;
 }
 
 .top-menu {
@@ -27,4 +28,12 @@ button {
     color: #e5e7eb;
     background: #3882f6;
     padding: 10px;
+}
+
+.chapa-presentation {
+    display: flex;
+}
+
+.chapa-presentation div {
+    flex: 1;
 }
