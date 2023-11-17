@@ -1,7 +1,12 @@
+* {
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
 .dark-header {
     background: #1f2937;
     color: #f9faf8;
-    padding: 50px;
 }
 
 .top-menu {
