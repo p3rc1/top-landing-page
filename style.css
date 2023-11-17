@@ -5,6 +5,8 @@
 
 .top-menu {
     display: flex;
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 #header-logo {
